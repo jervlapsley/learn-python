@@ -2,13 +2,14 @@
 
 this repo will host a collection of files, projects and resources used for improving my python skills. 
 
-### intro
+## intro
 - [ ] Pynet Python Course
-
-### intro
+### books
+- [ ] Automate the Boring Stuff w/ Python: 
+## intermediate
 - [ ] item 1
 
-### intro
+## advanced
 - [ ] item 1
 
 ## projects
