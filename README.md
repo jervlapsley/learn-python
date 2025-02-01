@@ -1,4 +1,4 @@
-cs# learn-python ![python logo](https://www.python.org/static/community_logos/python-powered-w-70x28.png)
+# learn-python ![python logo](https://www.python.org/static/community_logos/python-powered-w-70x28.png)
 
 this repo will host a collection of files, projects and resources used for improving my scripting skills (python, bash, powershell). 
 
