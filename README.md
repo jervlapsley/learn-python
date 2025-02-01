@@ -2,9 +2,8 @@
 
 this repo will host a collection of files, projects and resources used for improving my python skills. 
 
-## learning path (with resources)
 ### intro
-- [ ] item 1
+- [ ] Pynet Python Course
 
 ### intro
 - [ ] item 1
