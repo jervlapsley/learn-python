@@ -25,7 +25,7 @@ this repo will host a collection of files, projects and resources used for impro
 - [ ] Think Python:
 - [ ] Python Documentation
 
-## Mastery
+## mastery
 - [ ] IBM Applied AI Professional Certificate
 - [ ] DeepLearning.AI
 
