@@ -1,6 +1,6 @@
 # learn-python ![python logo](https://www.python.org/static/community_logos/python-powered-w-70x28.png)
 
-this repo will host a collection of files, projects and resources used for improving my scripting skills (python, bash, powershell). 
+this repo will host a collection of files, projects and resources used for improving my scripting skills (python, bash, powershell, AI/ML). 
 
 ## intro
 - [ ] Pynet Python Course
@@ -8,6 +8,7 @@ this repo will host a collection of files, projects and resources used for impro
 - [ ] Associate Data Scientist in Python: DataCamp
 ### books
 - [ ] Automate the Boring Stuff w/ Python: 
+
 ## intermediate
 - [ ] Python 3 Boot Camp: Colt Steele
 - [ ] Learn Bash Quickly: Ahmed Alkabary (Udemy)
@@ -24,6 +25,10 @@ this repo will host a collection of files, projects and resources used for impro
 - [ ] Think Python:
 - [ ] Python Documentation
 
+## Mastery
+- [ ] IBM Applied AI Professional Certificate
+- [ ] DeepLearning.AI
+
 ## projects
 - [ ] 100 Days of Python: Angela Yu
 - [ ] 52 Weeks of Python: Chuck Black
@@ -32,3 +37,4 @@ this repo will host a collection of files, projects and resources used for impro
 - [ ] Car Robot
 - [ ] Automated Text Messaging system
 - [ ] Plant Identifier App
+- [ ] Teach Network to play FlappyBirtd or CS2
