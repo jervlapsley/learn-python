@@ -3,26 +3,26 @@
 this repo will host a collection of files, projects and resources used for improving my scripting skills (python, bash, powershell, AI/ML). 
 
 ## intro
-- [ ] Pynet Python Course
-- [ ] Core Python 3: Getting Started (Pluralsight)
-- [ ] Associate Data Scientist in Python: DataCamp
+- [ ] Python 3 Boot Camp: Colt Steele
+
 ### books
+- [ ] Python Crash Course:
 - [ ] Automate the Boring Stuff w/ Python: 
 
 ## intermediate
-- [ ] Python 3 Boot Camp: Colt Steele
 - [ ] Learn Bash Quickly: Ahmed Alkabary (Udemy)
 - [ ] Shell Scripting: Jason Cannon (Udemy)
-- [ ] Powershell: Kevin Brown (Udemy)
-### books
-- [ ] Python Crash Course:
 
-## advanced
-- [ ] Machine Learning Scientist in Python: DataCamp
-- [ ] Pythong Programming for Network Engineers: David Bombal (Udemy)
-- [ ] Python 3 Scripting for System Admins: Keith Thompson (Pluralsight)
 ### books
 - [ ] Think Python:
+
+## advanced
+- [ ] Associate Data Scientist in Python: DataCamp
+- [ ] Machine Learning Scientist in Python: DataCamp
+- [ ] Python Programming for Network Engineers: David Bombal (Udemy)
+- [ ] Pynet Python Course
+
+### books
 - [ ] Python Documentation
 
 ## mastery
